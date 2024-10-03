@@ -17,7 +17,7 @@ Lộ trình này sẽ hướng dẫn bạn học machine learning với JavaScri
 
 ## Lộ Trình Học
 
-### 1. Khái Niệm Cơ Bản về Machine Learning
+### Khái Niệm Cơ Bản về Machine Learning
 - **Tìm hiểu về Machine Learning**: 
   - Học máy giám sát (Supervised Learning)
   - Học máy không giám sát (Unsupervised Learning)
